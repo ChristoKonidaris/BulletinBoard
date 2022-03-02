@@ -1,0 +1,11 @@
+Adapted from LAB GUIDE https://learn-eu-central-1-prod-fleet01-xythos.learn.cloudflare.blackboardcdn.com/5f5880ccc4141/1747273?X-Blackboard-Expiration=1622462400000&X-Blackboard-Signature=Vkd9NL4gAtVyRscBaXmKiNouRCe28NeZ%2FqT9NSsTdCs%3D&X-Blackboard-Client-Id=515070&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27ADPS%2520Lab%2520Guide%2520Complete.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210531T060000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=AKIAZH6WM4PL5M5HI5WH%2F20210531%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=01f8e02035ae8a3047e1a2deb90a0bf25654fa14a8ad036885250871af25ccdd
+Sarina Till
+Modified in 2021
+
+Adapted from Angular & NodeJS - The MEAN Stack Guide [2021 Edition] - https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/
+Maximilian Schwarzmüller
+Modified in 2018
+
+Adapted from Using Angular CLI to serve over https locally - https://medium.com/@richardr39/using-angular-cli-to-serve-over-https-locally-70dab07417c8
+Richard Russell 
+Modified in June 3, 2018
