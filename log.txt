@@ -1,0 +1,25 @@
+Connected to database!
+Connected to database!
+[Wed Jul 14 2021 12:19:34 GMT+0200 (Central Africa Time)] User has been created successfully!
+Connected to database!
+Connected to database!
+Connected to database!
+[Wed Jul 14 2021 12:29:46 GMT+0200 (Central Africa Time)] User has logged in successfully, user authenticated!
+[Wed Jul 14 2021 12:29:46 GMT+0200 (Central Africa Time)] Post fetched successfully!
+Connected to database!
+[Wed Jul 14 2021 12:32:57 GMT+0200 (Central Africa Time)] Post fetched successfully!
+[Wed Jul 14 2021 12:32:57 GMT+0200 (Central Africa Time)] Post fetched successfully!
+[Wed Jul 14 2021 12:32:57 GMT+0200 (Central Africa Time)] Post fetched successfully!
+[Wed Jul 14 2021 12:32:57 GMT+0200 (Central Africa Time)] Post fetched successfully!
+Connected to database!
+Connected to database!
+Connected to database!
+Connected to database!
+[Wed Jul 14 2021 14:18:03 GMT+0200 (Central Africa Time)] Post fetched successfully!
+Connected to database!
+Connected to database!
+Connected to database!
+[Wed Jul 14 2021 14:38:31 GMT+0200 (Central Africa Time)] Post fetched successfully!
+[Wed Jul 14 2021 14:38:31 GMT+0200 (Central Africa Time)] Post fetched successfully!
+[Wed Jul 14 2021 14:38:31 GMT+0200 (Central Africa Time)] Post fetched successfully!
+[Wed Jul 14 2021 14:38:31 GMT+0200 (Central Africa Time)] Post fetched successfully!

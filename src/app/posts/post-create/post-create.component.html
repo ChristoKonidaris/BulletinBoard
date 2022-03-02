@@ -1,0 +1,39 @@
+<h1>Create Your Bulletin Post Here</h1>
+
+<mat-card>
+  <mat-spinner *ngIf="isLoading"></mat-spinner>
+  <form (submit)="onAddPost(postForm)" #postForm="ngForm" ngNativeValidate *ngIf="!isLoading">
+    <br />
+    <mat-form-field>
+      <input
+        matInput
+        type="text"
+        ngModel
+        name="enteredTitle"
+        placeholder="Title"
+        #title = "ngModel"
+        minlength="3"
+        pattern ="^[a-zA-Z0-9\s]+$"
+        />
+      <mat-error *ngIf="title.invalid">Please enter a valid title</mat-error>
+    </mat-form-field>
+    <br />
+
+    <mat-form-field>
+      <textarea
+        matInput
+        type="text"
+        ngModel
+        name="enteredPostDescription"
+        placeholder="Post Description"
+        #postDescription = "ngModel"
+        minlength="3"
+      ></textarea>
+      <mat-error *ngIf="postDescription.invalid">Please enter a valid post</mat-error>
+    </mat-form-field>
+    <br />
+    <button mat-raised-button type="submit" color="primary">Post</button>
+  </form>
+
+</mat-card>
+<hr />
